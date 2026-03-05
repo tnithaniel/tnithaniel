@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithaniel Tandi</h1>
-<h3 align="center">A passionate Backend & AI Developer building real-world applications</h3>
+<h3 align="center">A passionate Backend, AI & Cybersecurity enthusiast building real-world applications</h3>
 
 <p align="center">
   <a href="https://github.com/tnithaniel">
@@ -12,12 +12,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **BCA graduate** with a strong passion for building scalable backend systems, intelligent AI-powered applications, and clean user interfaces. I enjoy turning complex problems into elegant, real-world solutions — and I'm always looking for the next challenge.
+I'm a **BCA graduate** with a strong passion for building scalable backend systems, intelligent AI-powered applications, cybersecurity, and clean user interfaces. I enjoy turning complex problems into elegant, real-world solutions — and I'm always looking for the next challenge.
 
 - 🔭 **Currently Working On:** A **Deepfake Detection System** using Python, FastAPI & React
-- 🌱 **Currently Learning:** Advanced Machine Learning, system design, and cloud deployment
+- 🌱 **Currently Learning:** Advanced Machine Learning, cybersecurity, system design, and cloud deployment
 - 💼 **Career Goal:** Land a **remote developer role** and contribute to meaningful tech projects
-- 🤝 **Open To:** Collaborating on open-source projects, AI/ML tools, and backend systems
+- 🤝 **Open To:** Collaborating on open-source projects, AI/ML tools, cybersecurity research, and backend systems
 - ⚡ **Fun Fact:** I believe great software is built at the intersection of curiosity and consistency
 
 ---
@@ -34,6 +34,7 @@ I'm a **BCA graduate** with a strong passion for building scalable backend syste
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2C2D72?style=for-the-badge&logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
