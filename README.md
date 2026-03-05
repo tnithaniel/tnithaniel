@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Backend & AI Developer building real-world applications</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/tnithaniel">
+    <img src="https://img.shields.io/github/followers/tnithaniel?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tnithaniel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -47,19 +47,19 @@ I'm a **BCA graduate** with a strong passion for building scalable backend syste
 | 🔧 *Your Next Project* | *Short description here* | *Tech used* |
 | 🔧 *Your Next Project* | *Short description here* | *Tech used* |
 
-> 💡 *Check out my [repositories](https://github.com/YOUR_USERNAME?tab=repositories) for more!*
+> 💡 *Check out my [repositories](https://github.com/tnithaniel?tab=repositories) for more!*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tnithaniel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnithaniel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnithaniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
@@ -67,14 +67,8 @@ I'm a **BCA graduate** with a strong passion for building scalable backend syste
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:tnithaniel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
